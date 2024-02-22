@@ -15,13 +15,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MajorityElement", "MajorityElement\MajorityElement.csproj", "{F956BB64-876A-46D8-962B-722E2BE88F53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimetoBuyandSellStock", "BestTimetoBuyandSellStock\BestTimetoBuyandSellStock.csproj", "{10C7813F-057A-458C-B4F9-26B0044C407A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestTimetoBuyandSellStock", "BestTimetoBuyandSellStock\BestTimetoBuyandSellStock.csproj", "{10C7813F-057A-458C-B4F9-26B0044C407A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomantoInteger", "RomantoInteger\RomantoInteger.csproj", "{14D307CA-FAF6-4FC5-A792-0C9036CEDB53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomantoInteger", "RomantoInteger\RomantoInteger.csproj", "{14D307CA-FAF6-4FC5-A792-0C9036CEDB53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{6D182F4E-1AF2-4474-A01C-E3B2C7B7291E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{6D182F4E-1AF2-4474-A01C-E3B2C7B7291E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{921C2ACC-1E0A-4CB8-B65D-06A368C93F3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{921C2ACC-1E0A-4CB8-B65D-06A368C93F3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexofTheFirstOccurenceInString", "IndexofTheFirstOccurenceInString\IndexofTheFirstOccurenceInString.csproj", "{E045DF3E-681C-4DFF-AEFD-C1749CD72793}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{921C2ACC-1E0A-4CB8-B65D-06A368C93F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{921C2ACC-1E0A-4CB8-B65D-06A368C93F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{921C2ACC-1E0A-4CB8-B65D-06A368C93F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E045DF3E-681C-4DFF-AEFD-C1749CD72793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E045DF3E-681C-4DFF-AEFD-C1749CD72793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E045DF3E-681C-4DFF-AEFD-C1749CD72793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E045DF3E-681C-4DFF-AEFD-C1749CD72793}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
