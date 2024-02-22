@@ -2,7 +2,7 @@
 
 namespace LongestCommonPrefix
 {
-    internal class Program
+    internal class LongestCommonPrefix
     {
         static void Main(string[] args)
         {

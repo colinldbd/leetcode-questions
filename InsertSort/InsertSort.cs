@@ -1,6 +1,6 @@
 ﻿namespace InsertSort
 {
-    internal class Program
+    internal class InsertSort
     {
         static void Main(string[] args)
         {

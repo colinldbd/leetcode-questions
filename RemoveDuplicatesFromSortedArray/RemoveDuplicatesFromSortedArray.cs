@@ -1,6 +1,6 @@
 ﻿namespace RemoveDuplicatesFromSortedArray
 {
-    internal class Program
+    internal class RemoveDuplicatesFromSortedArray
     {
         static void Main(string[] args)
         {

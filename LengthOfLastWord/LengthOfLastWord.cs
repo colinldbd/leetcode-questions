@@ -2,7 +2,7 @@
 
 namespace LengthOfLastWord
 {
-    internal class Program
+    internal class LengthOfLastWord
     {
         static void Main(string[] args)
         {

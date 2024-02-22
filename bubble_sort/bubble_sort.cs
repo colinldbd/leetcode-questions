@@ -1,6 +1,6 @@
 ﻿namespace bubble_sort
 {
-    internal class Program
+    internal class bubble_sort
     {
         static void Main(string[] args)
         {

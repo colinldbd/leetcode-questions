@@ -2,7 +2,7 @@
 
 namespace MajorityElement
 {
-    internal class Program
+    internal class MajorityElement
     {
         static void Main(string[] args)
         {

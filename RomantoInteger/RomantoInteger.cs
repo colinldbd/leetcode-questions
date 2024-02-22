@@ -1,6 +1,6 @@
 ﻿namespace RomantoInteger
 {
-    internal class Program
+    internal class RomantoInteger
     {
         static void Main(string[] args)
         {

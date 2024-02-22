@@ -2,7 +2,7 @@
 
 namespace merge_sorted_array
 {
-    internal class Program
+    internal class merge_sorted_array
     {
         static void Main(string[] args)
         {

@@ -1,6 +1,6 @@
 ﻿namespace BestTimetoBuyandSellStock
 {
-    internal class Program
+    internal class BestTimetoBuyandSellStock
     {
         static void Main(string[] args)
         {

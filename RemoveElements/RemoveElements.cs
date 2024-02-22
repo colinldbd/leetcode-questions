@@ -1,6 +1,6 @@
 ﻿namespace RemoveElements
 {
-    internal class Program
+    internal class RemoveElements
     {
         static void Main(string[] args)
         {
