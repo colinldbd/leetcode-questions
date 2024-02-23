@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LengthOfLastWord", "LengthO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{921C2ACC-1E0A-4CB8-B65D-06A368C93F3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexofTheFirstOccurenceInString", "IndexofTheFirstOccurenceInString\IndexofTheFirstOccurenceInString.csproj", "{E045DF3E-681C-4DFF-AEFD-C1749CD72793}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndexofTheFirstOccurenceInString", "IndexofTheFirstOccurenceInString\IndexofTheFirstOccurenceInString.csproj", "{E045DF3E-681C-4DFF-AEFD-C1749CD72793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindrome", "IsPalindrome\IsPalindrome.csproj", "{0B275EAC-8FF0-4CEF-A5F6-BB0DE3D8F19A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{E045DF3E-681C-4DFF-AEFD-C1749CD72793}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E045DF3E-681C-4DFF-AEFD-C1749CD72793}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E045DF3E-681C-4DFF-AEFD-C1749CD72793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B275EAC-8FF0-4CEF-A5F6-BB0DE3D8F19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B275EAC-8FF0-4CEF-A5F6-BB0DE3D8F19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B275EAC-8FF0-4CEF-A5F6-BB0DE3D8F19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B275EAC-8FF0-4CEF-A5F6-BB0DE3D8F19A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
