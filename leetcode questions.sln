@@ -27,7 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndexofTheFirstOccurenceInS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsPalindrome", "IsPalindrome\IsPalindrome.csproj", "{0B275EAC-8FF0-4CEF-A5F6-BB0DE3D8F19A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsSubsequence", "IsSubsequence\IsSubsequence.csproj", "{364D449D-DD22-475A-8718-D1A384C11488}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsSubsequence", "IsSubsequence\IsSubsequence.csproj", "{364D449D-DD22-475A-8718-D1A384C11488}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RansomNote", "RansomNote\RansomNote.csproj", "{45FE1C87-5816-4DE7-A7FD-C2855C442999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsIsomorphic", "IsIsomorphic\IsIsomorphic.csproj", "{4A07F74B-B87B-4811-83E0-6813676FFBD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{364D449D-DD22-475A-8718-D1A384C11488}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{364D449D-DD22-475A-8718-D1A384C11488}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{364D449D-DD22-475A-8718-D1A384C11488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45FE1C87-5816-4DE7-A7FD-C2855C442999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FE1C87-5816-4DE7-A7FD-C2855C442999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FE1C87-5816-4DE7-A7FD-C2855C442999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FE1C87-5816-4DE7-A7FD-C2855C442999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A07F74B-B87B-4811-83E0-6813676FFBD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A07F74B-B87B-4811-83E0-6813676FFBD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A07F74B-B87B-4811-83E0-6813676FFBD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A07F74B-B87B-4811-83E0-6813676FFBD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

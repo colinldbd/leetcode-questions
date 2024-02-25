@@ -1,13 +1,13 @@
 ﻿namespace IsSubsequence
 {
-    internal class Program
+    internal class IsSubsequence
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
         }
 
-        public bool IsSubsequence(string s, string t)
+        public static bool Subsequence(string s, string t)
         {
             string result = "";
 

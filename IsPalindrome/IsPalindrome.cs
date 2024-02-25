@@ -2,7 +2,7 @@
 
 namespace IsPalindrome
 {
-    internal class Program
+    internal class IsPalindrome
     {
         static void Main(string[] args)
         {
