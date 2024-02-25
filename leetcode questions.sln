@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RansomNote", "RansomNote\Ra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsIsomorphic", "IsIsomorphic\IsIsomorphic.csproj", "{4A07F74B-B87B-4811-83E0-6813676FFBD1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPattern", "WordPattern\WordPattern.csproj", "{A10D5DC3-B75C-43BA-8DF1-2D05C639E04D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidAnagram", "ValidAnagram\ValidAnagram.csproj", "{7CC1385C-450D-41EA-9F9A-72D924EE2D26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{4A07F74B-B87B-4811-83E0-6813676FFBD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A07F74B-B87B-4811-83E0-6813676FFBD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A07F74B-B87B-4811-83E0-6813676FFBD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A10D5DC3-B75C-43BA-8DF1-2D05C639E04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10D5DC3-B75C-43BA-8DF1-2D05C639E04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10D5DC3-B75C-43BA-8DF1-2D05C639E04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10D5DC3-B75C-43BA-8DF1-2D05C639E04D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC1385C-450D-41EA-9F9A-72D924EE2D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC1385C-450D-41EA-9F9A-72D924EE2D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC1385C-450D-41EA-9F9A-72D924EE2D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC1385C-450D-41EA-9F9A-72D924EE2D26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
