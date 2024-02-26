@@ -29,13 +29,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsPalindrome", "IsPalindrom
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsSubsequence", "IsSubsequence\IsSubsequence.csproj", "{364D449D-DD22-475A-8718-D1A384C11488}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RansomNote", "RansomNote\RansomNote.csproj", "{45FE1C87-5816-4DE7-A7FD-C2855C442999}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RansomNote", "RansomNote\RansomNote.csproj", "{45FE1C87-5816-4DE7-A7FD-C2855C442999}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsIsomorphic", "IsIsomorphic\IsIsomorphic.csproj", "{4A07F74B-B87B-4811-83E0-6813676FFBD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsIsomorphic", "IsIsomorphic\IsIsomorphic.csproj", "{4A07F74B-B87B-4811-83E0-6813676FFBD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPattern", "WordPattern\WordPattern.csproj", "{A10D5DC3-B75C-43BA-8DF1-2D05C639E04D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordPattern", "WordPattern\WordPattern.csproj", "{A10D5DC3-B75C-43BA-8DF1-2D05C639E04D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidAnagram", "ValidAnagram\ValidAnagram.csproj", "{7CC1385C-450D-41EA-9F9A-72D924EE2D26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidAnagram", "ValidAnagram\ValidAnagram.csproj", "{7CC1385C-450D-41EA-9F9A-72D924EE2D26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{36D0860B-8C45-44A5-AAEC-361C556B5509}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{7CC1385C-450D-41EA-9F9A-72D924EE2D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CC1385C-450D-41EA-9F9A-72D924EE2D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CC1385C-450D-41EA-9F9A-72D924EE2D26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D0860B-8C45-44A5-AAEC-361C556B5509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D0860B-8C45-44A5-AAEC-361C556B5509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D0860B-8C45-44A5-AAEC-361C556B5509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D0860B-8C45-44A5-AAEC-361C556B5509}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
