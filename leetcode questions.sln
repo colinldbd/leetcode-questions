@@ -37,15 +37,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordPattern", "WordPattern\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidAnagram", "ValidAnagram\ValidAnagram.csproj", "{7CC1385C-450D-41EA-9F9A-72D924EE2D26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{36D0860B-8C45-44A5-AAEC-361C556B5509}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{36D0860B-8C45-44A5-AAEC-361C556B5509}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyNumber", "HappyNumber\HappyNumber.csproj", "{99BBBFC6-813F-4996-B5C6-7CF03DF98C80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HappyNumber", "HappyNumber\HappyNumber.csproj", "{99BBBFC6-813F-4996-B5C6-7CF03DF98C80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicateII", "ContainsDuplicateII\ContainsDuplicateII.csproj", "{69893606-E0A2-468E-81A9-EB536F8F9EBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainsDuplicateII", "ContainsDuplicateII\ContainsDuplicateII.csproj", "{69893606-E0A2-468E-81A9-EB536F8F9EBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummaryRanges", "SummaryRanges\SummaryRanges.csproj", "{58343109-1FFA-4234-820B-374B918A71F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SummaryRanges", "SummaryRanges\SummaryRanges.csproj", "{58343109-1FFA-4234-820B-374B918A71F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{F7FBEFD2-A3F5-47C8-8ECA-238908CD3C6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{F7FBEFD2-A3F5-47C8-8ECA-238908CD3C6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListCycle", "LinkedListCycle\LinkedListCycle.csproj", "{4B25B3C9-0CEC-4F05-AEB1-6994041F3627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedLists", "MergeTwoSortedLists\MergeTwoSortedLists.csproj", "{A1C6294D-7D19-424E-BC1A-EE1E28C4CF97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +145,14 @@ Global
 		{F7FBEFD2-A3F5-47C8-8ECA-238908CD3C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7FBEFD2-A3F5-47C8-8ECA-238908CD3C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7FBEFD2-A3F5-47C8-8ECA-238908CD3C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B25B3C9-0CEC-4F05-AEB1-6994041F3627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B25B3C9-0CEC-4F05-AEB1-6994041F3627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B25B3C9-0CEC-4F05-AEB1-6994041F3627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B25B3C9-0CEC-4F05-AEB1-6994041F3627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C6294D-7D19-424E-BC1A-EE1E28C4CF97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C6294D-7D19-424E-BC1A-EE1E28C4CF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C6294D-7D19-424E-BC1A-EE1E28C4CF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C6294D-7D19-424E-BC1A-EE1E28C4CF97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
