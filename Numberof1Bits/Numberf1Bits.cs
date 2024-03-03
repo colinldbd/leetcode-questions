@@ -1,6 +1,6 @@
 ﻿namespace Numberof1Bits
 {
-    internal class Program
+    internal class Numberf1Bits
     {
         static void Main(string[] args)
         {
@@ -17,7 +17,6 @@
             }
 
             return count;
-
             //var str = Convert.ToString(n, 2);
             //var result = 0;
             //for (int i = 0; i < str.Length; i++)
