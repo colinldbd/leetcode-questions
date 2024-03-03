@@ -65,7 +65,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountCompleteTreeNodes", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AverageofLevelsinBinaryTree", "AverageofLevelsinBinaryTree\AverageofLevelsinBinaryTree.csproj", "{5207556E-88F9-4B4F-B3C5-A4B0E4234685}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumAbsoluteDifferenceinBST", "MinimumAbsoluteDifferenceinBST\MinimumAbsoluteDifferenceinBST.csproj", "{C3D7BF83-D22D-4FF8-8563-5973FA3D457A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumAbsoluteDifferenceinBST", "MinimumAbsoluteDifferenceinBST\MinimumAbsoluteDifferenceinBST.csproj", "{C3D7BF83-D22D-4FF8-8563-5973FA3D457A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertSortedArraytoBinarySearchTree", "ConvertSortedArraytoBinarySearchTree\ConvertSortedArraytoBinarySearchTree.csproj", "{3427D656-99B0-4205-9362-1004428F51D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -461,6 +463,18 @@ Global
 		{C3D7BF83-D22D-4FF8-8563-5973FA3D457A}.Release|x64.Build.0 = Release|Any CPU
 		{C3D7BF83-D22D-4FF8-8563-5973FA3D457A}.Release|x86.ActiveCfg = Release|Any CPU
 		{C3D7BF83-D22D-4FF8-8563-5973FA3D457A}.Release|x86.Build.0 = Release|Any CPU
+		{3427D656-99B0-4205-9362-1004428F51D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3427D656-99B0-4205-9362-1004428F51D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3427D656-99B0-4205-9362-1004428F51D7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3427D656-99B0-4205-9362-1004428F51D7}.Debug|x64.Build.0 = Debug|Any CPU
+		{3427D656-99B0-4205-9362-1004428F51D7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3427D656-99B0-4205-9362-1004428F51D7}.Debug|x86.Build.0 = Debug|Any CPU
+		{3427D656-99B0-4205-9362-1004428F51D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3427D656-99B0-4205-9362-1004428F51D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3427D656-99B0-4205-9362-1004428F51D7}.Release|x64.ActiveCfg = Release|Any CPU
+		{3427D656-99B0-4205-9362-1004428F51D7}.Release|x64.Build.0 = Release|Any CPU
+		{3427D656-99B0-4205-9362-1004428F51D7}.Release|x86.ActiveCfg = Release|Any CPU
+		{3427D656-99B0-4205-9362-1004428F51D7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
