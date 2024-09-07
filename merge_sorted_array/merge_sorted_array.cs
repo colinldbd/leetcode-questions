@@ -1,6 +1,4 @@
-﻿using System.Runtime.Serialization;
-
-namespace merge_sorted_array
+﻿namespace merge_sorted_array
 {
     internal class merge_sorted_array
     {
@@ -22,13 +20,13 @@ namespace merge_sorted_array
 
             for (int i = 0, j = 0; i < m || j < n;)
             {
-                if(i == m)
+                if (i == m)
                 {
                     list.Add(nums2[j]);
                     j++;
                     continue;
                 }
-                else if(j == n)
+                else if (j == n)
                 {
                     list.Add(nums1[i]);
                     i++;
@@ -57,9 +55,9 @@ namespace merge_sorted_array
         {
             List<int> list = [];
 
-            foreach(int n in nums)
+            foreach (int n in nums)
             {
-               if(n !=0)
+                if (n != 0)
                 {
                     list.Add(n);
                 }

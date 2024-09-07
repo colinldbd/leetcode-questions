@@ -5,12 +5,17 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+
+            ProductExceptSelf([1, 2]);
         }
 
         //Use DP? Divide it into left product and right product
         // Trade space for time.
-        public int[] ProductExceptSelf(int[] nums)
+        public static int[] ProductExceptSelf(int[] nums)
         {
+            DateTime dt = DateTime.Now;
+            DateTime result1 = new DateTime(dt.Year + 1, dt.Month, dt.Day);
+
             int[] leftProduct = new int[nums.Length];
             int[] rightProduct = new int[nums.Length];
             int[] result = new int[nums.Length];
