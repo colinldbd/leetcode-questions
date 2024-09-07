@@ -5,10 +5,10 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            int[] nums1 = [1, 2, 3, 0, 0, 0];
-            int[] nums2 = [2, 5, 6];
+            int[] nums1 = [0];
+            int[] nums2 = [1];
 
-            Merge(nums1, 3, nums2, 3);
+            Merge(nums1, 0, nums2, 1);
         }
 
         public static void Merge(int[] nums1, int m, int[] nums2, int n)
