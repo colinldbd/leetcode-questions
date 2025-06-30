@@ -39,7 +39,7 @@
             }
             for (int i = 0; i <= haystack.Length - needle.Length; i++)
             {
-                if (haystack.Substring(i, i + needle.Length).Equals(needle))
+                if (haystack.Substring(i, needle.Length).Equals(needle))
                 {
                     return i;
                 }
