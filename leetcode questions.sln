@@ -109,6 +109,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Overlapping_Squares", "Over
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MInimum_Bit_Flips_To_Convert_Number", "MInimum_Bit_Flips_To_Convert_Number\MInimum_Bit_Flips_To_Convert_Number.csproj", "{0C630572-2646-4E7B-B8D3-8079F2BD9B8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{0683C2F8-7D6A-40BD-9D0D-4569F07042DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kth_Char_In_String_Game_I", "Kth_Char_In_String_Game_I\Kth_Char_In_String_Game_I.csproj", "{F263A5DA-B9F5-4DAA-90D3-8194A1FC182D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -755,6 +759,30 @@ Global
 		{0C630572-2646-4E7B-B8D3-8079F2BD9B8A}.Release|x64.Build.0 = Release|Any CPU
 		{0C630572-2646-4E7B-B8D3-8079F2BD9B8A}.Release|x86.ActiveCfg = Release|Any CPU
 		{0C630572-2646-4E7B-B8D3-8079F2BD9B8A}.Release|x86.Build.0 = Release|Any CPU
+		{0683C2F8-7D6A-40BD-9D0D-4569F07042DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0683C2F8-7D6A-40BD-9D0D-4569F07042DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0683C2F8-7D6A-40BD-9D0D-4569F07042DB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0683C2F8-7D6A-40BD-9D0D-4569F07042DB}.Debug|x64.Build.0 = Debug|Any CPU
+		{0683C2F8-7D6A-40BD-9D0D-4569F07042DB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0683C2F8-7D6A-40BD-9D0D-4569F07042DB}.Debug|x86.Build.0 = Debug|Any CPU
+		{0683C2F8-7D6A-40BD-9D0D-4569F07042DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0683C2F8-7D6A-40BD-9D0D-4569F07042DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0683C2F8-7D6A-40BD-9D0D-4569F07042DB}.Release|x64.ActiveCfg = Release|Any CPU
+		{0683C2F8-7D6A-40BD-9D0D-4569F07042DB}.Release|x64.Build.0 = Release|Any CPU
+		{0683C2F8-7D6A-40BD-9D0D-4569F07042DB}.Release|x86.ActiveCfg = Release|Any CPU
+		{0683C2F8-7D6A-40BD-9D0D-4569F07042DB}.Release|x86.Build.0 = Release|Any CPU
+		{F263A5DA-B9F5-4DAA-90D3-8194A1FC182D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F263A5DA-B9F5-4DAA-90D3-8194A1FC182D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F263A5DA-B9F5-4DAA-90D3-8194A1FC182D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F263A5DA-B9F5-4DAA-90D3-8194A1FC182D}.Debug|x64.Build.0 = Debug|Any CPU
+		{F263A5DA-B9F5-4DAA-90D3-8194A1FC182D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F263A5DA-B9F5-4DAA-90D3-8194A1FC182D}.Debug|x86.Build.0 = Debug|Any CPU
+		{F263A5DA-B9F5-4DAA-90D3-8194A1FC182D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F263A5DA-B9F5-4DAA-90D3-8194A1FC182D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F263A5DA-B9F5-4DAA-90D3-8194A1FC182D}.Release|x64.ActiveCfg = Release|Any CPU
+		{F263A5DA-B9F5-4DAA-90D3-8194A1FC182D}.Release|x64.Build.0 = Release|Any CPU
+		{F263A5DA-B9F5-4DAA-90D3-8194A1FC182D}.Release|x86.ActiveCfg = Release|Any CPU
+		{F263A5DA-B9F5-4DAA-90D3-8194A1FC182D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

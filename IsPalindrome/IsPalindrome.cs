@@ -8,12 +8,12 @@ namespace IsPalindrome
         {
             Console.WriteLine("Hello, World!");
 
-            bool result = IsPalindrome("a.");
+            bool result = Palindrome("a.");
 
             return;
         }
 
-        public static bool IsPalindrome(string s)
+        public static bool Palindrome(string s)
         {
             string cleanString = "";
             string reverseString = "";
